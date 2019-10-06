@@ -1,4 +1,4 @@
-This fork has been created for the express purpose of cross-compiling exotic Recrypt Node bindings
+This fork has been created for the express purpose of cross-compiling exotic Recrypt Node bindings.  Similar methodology may be used for cross-compiling other Neon modules. 
 
 In order for cross-compile to properly link Node through Neon to additional targets must declare link to target in native/.cargo/config
 
