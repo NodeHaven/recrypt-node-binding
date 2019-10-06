@@ -4,9 +4,10 @@ In order for cross-compile to properly link Node through Neon to additional targ
 
 Example:
 
-[target.i686-linux-android.node]
+```[target.i686-linux-android.node]
 rustc-link-search = ["/path/to/libnode/bin/x86"]
 rustc-link-lib = ["node"]
+```
 
 Below is just a copy from original:
 
