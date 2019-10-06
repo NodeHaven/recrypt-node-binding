@@ -1,4 +1,4 @@
-This fork has been created for the express purpose of cross-compiling Node bindings
+This fork has been created for the express purpose of cross-compiling Recrypt Node bindings
 
 Below is just a copy from original:
 
