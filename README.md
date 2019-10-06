@@ -1,3 +1,7 @@
+This fork has been created for the express purpose of cross-compiling NodeJS bindings
+
+Below is just a copy from original:
+
 # Recrypt Node Binding
 
 [![Build Status](https://travis-ci.org/IronCoreLabs/recrypt-node-binding.svg?branch=master)](https://travis-ci.org/IronCoreLabs/recrypt-node-binding)
